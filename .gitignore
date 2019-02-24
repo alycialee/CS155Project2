@@ -105,3 +105,4 @@ venv.bak/
 
 # raw data files
 data/*.txt
+*.pkl

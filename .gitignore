@@ -104,8 +104,11 @@ venv.bak/
 .mypy_cache/
 
 # raw data files
-data/*.txt
+data/new_files/*.txt
+data/old_files/*.txt
+data/raw_data/*.txt
 *.pkl
 .DS_Store
-data/*.pkl
+data/new_files/*.pkl
+data/old_files/*.pkl
 visuals/*.png
